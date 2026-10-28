@@ -108,12 +108,11 @@ Here are some ideas to get you started:
 - 🕸️ **Graph neural networks:** brain connectome graphs, patient population graphs (GCN, GAT, GIN, graph transformers)
 - 🔍 **Explainable AI:** testing whether model explanations find real signal or shortcuts
 - 🧠 **Neuroimaging:** ABIDE fMRI connectomes
-- 🩻 **Medical imaging:** mammography (CBIS-DDSM), head-and-neck PET/CT (TCIA)
-- ⏳ **Survival analysis:** Cox models, random survival forests, C-index, leave-one-centre-out evaluation
+- 🩻 **Medical imaging:** mammography (CBIS-DDSM)
 - ⚖️ **Imbalanced learning:** SMOTE view completion, hybrid class balancing
 - 🚗 **Computer vision:** YOLOv3 object detection on Indian road scenes
 - 💬 **NLP / LLMs:** human-preference prediction, pairwise text classification
-- 🧪 **Rigorous evaluation:** leakage-free protocols, patient-level splits, domain-shift and robustness benchmarks
+- 🧪 **Rigorous evaluation:** leakage-free protocols, domain-shift and robustness benchmarks
 - 💻 **Software engineering foundations:** algorithms and data structures in Java, and client web development (WordPress, HTML, CSS, JavaScript)
 
 ---
